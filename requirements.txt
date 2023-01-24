@@ -1,0 +1,4 @@
+simple-pid==1.0.1
+pyserial==3.5b0
+adafruit-circuitpython-bme280==2.6.19
+RPi.GPIO==0.7.0
