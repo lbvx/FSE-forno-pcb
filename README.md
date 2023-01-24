@@ -2,7 +2,7 @@
 
 ## Apresentação
 
-[wip]()
+[Vídeo](https://www.youtube.com/watch?v=2gQR3qCsIzM)
 
 ## Experimento - Temperatura Fixa
 
